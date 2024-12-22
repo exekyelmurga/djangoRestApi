@@ -63,7 +63,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado:
 
 Este entorno virtual asi como el enotrno desplegado a produccion tienen una interfaz que facilita el uso de dicha API
 
-(dicho elace al entorno virtual fue enviado por privado por razones de seguridad y privacidad):
+(El enlace a la version productiva fue enviado por privado por razones de seguridad y privacidad):
 
 Esta URL trae todos los autos:
 
