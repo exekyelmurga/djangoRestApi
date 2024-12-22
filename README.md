@@ -59,3 +59,23 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado:
   python manage.py runserver  
 
   ```
+**Una vez el proyecto este corriendo en local, se puede visitar el puerto http://127.0.0.1:8000/api/modelos/ para poder hacer peticiones CRUD**
+
+Este entorno virtual asi como el enotrno desplegado a produccion tienen una interfaz que facilita el uso de dicha API
+
+(dicho elace al entorno virtual fue enviado por privado por razones de seguridad y privacidad):
+
+Esta URL trae todos los autos:
+
+```bash 
+http://127.0.0.1:8000/api/modelos/
+```
+
+Esta URL trae un auto en especifico por el "id" 
+(cabe aclarar que las demas opciones del propio CRUD como actualizar y eliminar 
+solo aparecen en la interfaz cuando se busca un auto por "id"):
+
+```bash
+http://127.0.0.1:8000/api/modelos/1/
+```
+
