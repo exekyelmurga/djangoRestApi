@@ -31,7 +31,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado:
 1. **Clona este repositorio**:  
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd EGO-Challenge
+   
 2. **Crea y activa un entorno virtual**:
    
    En Unix/macOS:
